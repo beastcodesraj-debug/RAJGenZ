@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ZenScholar",
+  "description": "An AI-powered academic wellness companion that balances deep focus with mindful recovery. Includes focus tracking, learning roadmaps, breathing exercises, and emotional reflections.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
